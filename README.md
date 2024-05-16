@@ -28,7 +28,7 @@ This repository contains code for a financial derivatives project completed as p
    - Ensure you have historical stock price data for Amazon in a CSV file named 'AMZN.csv'. You can replace it with your own file if necessary.
 
 3. **Execution:**
-   - Run the Python script `financial_derivatives_project.py`.
+   - Run the Python script `AMZN_Final_Code.py`.
    - The script will generate various plots and print out analysis results.
 
 ### Sample Output
